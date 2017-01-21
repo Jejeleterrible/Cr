@@ -240,3 +240,11 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/html
+/latex
+/man/man3
+/rtf
+*.chm
+*.chw
+*.df
+*.bmp
